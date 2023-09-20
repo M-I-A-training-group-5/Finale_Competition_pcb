@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-2
+Added Component: Designator=R*1(Resistor)
+Added Component: Designator=R*2(Resistor)
+Added Pin To Net: NetName=GND Pin=R*1-2
+Added Pin To Net: NetName=GND Pin=R*2-2
+Added Pin To Net: NetName=NetR*1_1 Pin=R*1-1
+Added Pin To Net: NetName=NetR*1_1 Pin=U1-1
+Added Net: Name=NetR*1_1
+Added Pin To Net: NetName=NetR*2_1 Pin=R*2-1
+Added Pin To Net: NetName=NetR*2_1 Pin=U1-15
+Added Net: Name=NetR*2_1
+Added Member To Class: ClassName=Sheet2 Member=Component R*1 0.5 Ohm
+Added Member To Class: ClassName=Sheet2 Member=Component R*2 0.5 Ohm
+Added Room: Name=Sheet2

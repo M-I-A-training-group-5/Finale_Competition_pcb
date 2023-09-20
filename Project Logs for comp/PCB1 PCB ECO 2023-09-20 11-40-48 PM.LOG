@@ -1,0 +1,4 @@
+Added Component: Designator=T*(Terminal_block_2pins_9.5mm)
+Added Component: Designator=T*(Terminal_block_2pins_3.5mm)
+Added Member To Class: ClassName=Sheet2 Member=Component T* Terminal_block_2pins_9.5mm
+Added Member To Class: ClassName=Sheet2 Member=Component T* Terminal_block_2pins_3.5mm

@@ -1,0 +1,99 @@
+Removed Member From Class: ClassName=Sheet2 Member=U?
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=H* NewDesignator=H*1
+Change Component Designator: OldDesignator=MD? NewDesignator=MD1
+Change Component Designator: OldDesignator=T* NewDesignator=T*1
+Added Component: Designator=R1(FP-CSRN2512-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.25inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "500mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CSRN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.124inch"; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP-CSRN2512-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.028inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.25inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "500mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CSRN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.124inch"; VariantName = "[No Variations]"
+Added Component: Designator=T*2(Terminal_block_2pins_3.5mm)
+Added Component: Designator=U1(STM-FM-15)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15109/getdatasheetpartid-50682-15109332.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "01/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver Case Style"; Value = "Multiwatt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Motor Type"; Value = "FullBridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Outputs"; Value = "4Outputs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "15Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "130°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "46V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "15-Pin Flange Mount, Body 5 x 19.6 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FM-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Each"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "L298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(17-Dec-2015)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=T*2-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+12 Pin=T*2-1
+Added Pin To Net: NetName=+12 Pin=U1-9
+Added Net: Name=+12
+Added Pin To Net: NetName=COMMON_ENABLE Pin=MD1-13
+Added Pin To Net: NetName=COMMON_ENABLE Pin=U1-6
+Added Pin To Net: NetName=COMMON_ENABLE Pin=U1-11
+Added Net: Name=COMMON_ENABLE
+Added Pin To Net: NetName=IN1_1 Pin=MD1-12
+Added Pin To Net: NetName=IN1_1 Pin=U1-5
+Added Net: Name=IN1_1
+Added Pin To Net: NetName=IN1_2 Pin=MD1-11
+Added Pin To Net: NetName=IN1_2 Pin=U1-7
+Added Net: Name=IN1_2
+Added Pin To Net: NetName=IN2_1 Pin=MD1-10
+Added Pin To Net: NetName=IN2_1 Pin=U1-10
+Added Net: Name=IN2_1
+Added Pin To Net: NetName=IN2_2 Pin=MD1-9
+Added Pin To Net: NetName=IN2_2 Pin=U1-12
+Added Net: Name=IN2_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-15
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Sheet2 Member=Component R1 CSRN2512FTR500
+Added Member To Class: ClassName=Sheet2 Member=Component R2 CSRN2512FTR500
+Added Member To Class: ClassName=Sheet2 Member=Component T*2 Terminal_block_2pins_3.5mm
+Added Member To Class: ClassName=Sheet2 Member=Component U1 L298N
