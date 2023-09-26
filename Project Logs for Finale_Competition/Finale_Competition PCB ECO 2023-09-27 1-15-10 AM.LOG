@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=MPU*1
+Change Component Designator: OldDesignator=Motor 1_2 NewDesignator=T*3
+Change Component Designator: OldDesignator=Motor 2_1 NewDesignator=T*4
+Change Component Designator: OldDesignator=Ultrasonic NewDesignator=H*1
+Added Member To Class: ClassName=Finale_Competition Member=Component T*1 Terminal_block_2pins_3.5mm
+Added Member To Class: ClassName=Finale_Competition Member=Component T*4 Terminal_block_2pins_3.5mm
+Added Room: Name=Finale_Competition

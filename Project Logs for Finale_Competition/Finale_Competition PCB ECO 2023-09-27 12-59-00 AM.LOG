@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Motor 2_1 Pin=T*4-1
+Removed Pin From Net: NetName=Motor 2_2 Pin=T*4-2
+Added Pin To Net: NetName=Motor 2_2 Pin=T*4-1
+Added Pin To Net: NetName=Motor 2_1 Pin=T*4-2
+Added Room: Name=Finale_Competition

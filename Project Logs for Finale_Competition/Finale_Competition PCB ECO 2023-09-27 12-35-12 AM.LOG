@@ -1,0 +1,19 @@
+Added Component: Designator=T*3(Terminal_block_2pins_3.5mm)
+Added Component: Designator=T*4(Terminal_block_2pins_3.5mm)
+Added Pin To Net: NetName=Motor 1_1 Pin=T*3-1
+Added Pin To Net: NetName=Motor 1_1 Pin=U1-2
+Added Net: Name=Motor 1_1
+Added Pin To Net: NetName=Motor 1_2 Pin=T*3-2
+Added Pin To Net: NetName=Motor 1_2 Pin=U1-3
+Added Net: Name=Motor 1_2
+Added Pin To Net: NetName=Motor 2_1 Pin=T*4-1
+Added Pin To Net: NetName=Motor 2_1 Pin=U1-13
+Added Net: Name=Motor 2_1
+Added Pin To Net: NetName=Motor 2_2 Pin=T*4-2
+Added Pin To Net: NetName=Motor 2_2 Pin=U1-14
+Added Net: Name=Motor 2_2
+Added Member To Class: ClassName=Finale_Competition Member=Component H*1 FEMALE_HEADER_4
+Added Member To Class: ClassName=Finale_Competition Member=Component MD1 A000005
+Added Member To Class: ClassName=Finale_Competition Member=Component T*3 Terminal_block_2pins_3.5mm
+Added Member To Class: ClassName=Finale_Competition Member=Component T*4 Terminal_block_2pins_3.5mm
+Added Room: Name=Finale_Competition

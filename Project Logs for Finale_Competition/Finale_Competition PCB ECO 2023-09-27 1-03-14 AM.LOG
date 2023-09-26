@@ -1,0 +1,106 @@
+Added Component: Designator=*1(MPU6050)
+Added Component: Designator=H*1(Female_Header_4)
+Added Component: Designator=MD1(FP-A000005-MFG)
+Add component (AddParameter): Name = "Core Architecture"; Value = "AVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "8b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Evaluation Kit"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.25inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AVR® ATmega"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.358383oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5inch"; VariantName = "[No Variations]"
+Added Component: Designator=R*1(Resistor)
+Added Component: Designator=R*2(Resistor)
+Added Component: Designator=T*1(Terminal_block_2pins_3.5mm)
+Added Component: Designator=T*2(Terminal_block_2pins_3.5mm)
+Added Component: Designator=T*3(Terminal_block_2pins_3.5mm)
+Added Component: Designator=T*4(Terminal_block_2pins_3.5mm)
+Added Component: Designator=U1(STM-FM-15)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15109/getdatasheetpartid-50682-15109332.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "01/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver Case Style"; Value = "Multiwatt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Motor Type"; Value = "FullBridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Outputs"; Value = "4Outputs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "15Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "130°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "46V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "15-Pin Flange Mount, Body 5 x 19.6 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FM-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Each"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "L298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(17-Dec-2015)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*1-GND
+Added Pin To Net: NetName=SCL Pin=*1-SCL
+Added Pin To Net: NetName=SDA Pin=*1-SDA
+Added Pin To Net: NetName=+5 Pin=*1-VCC
+Added Pin To Net: NetName=+5 Pin=H*1-1
+Added Pin To Net: NetName=TRIG Pin=H*1-2
+Added Pin To Net: NetName=ECHO Pin=H*1-3
+Added Pin To Net: NetName=GND Pin=H*1-4
+Added Pin To Net: NetName=+5 Pin=MD1-3
+Added Pin To Net: NetName=GND Pin=MD1-4
+Added Pin To Net: NetName=IN2_2 Pin=MD1-8
+Added Pin To Net: NetName=IN2_1 Pin=MD1-9
+Added Pin To Net: NetName=IN1_2 Pin=MD1-10
+Added Pin To Net: NetName=IN1_1 Pin=MD1-11
+Added Pin To Net: NetName=COMMON_ENABLE Pin=MD1-12
+Added Pin To Net: NetName=ECHO Pin=MD1-14
+Added Pin To Net: NetName=TRIG Pin=MD1-15
+Added Pin To Net: NetName=SDA Pin=MD1-23
+Added Pin To Net: NetName=SCL Pin=MD1-24
+Added Pin To Net: NetName=+5 Pin=MD1-28
+Added Pin To Net: NetName=GND Pin=MD1-29
+Added Pin To Net: NetName=+5 Pin=MD1-30
+Added Pin To Net: NetName=NetR*1_1 Pin=R*1-1
+Added Pin To Net: NetName=GND Pin=R*1-2
+Added Pin To Net: NetName=NetR*2_1 Pin=R*2-1
+Added Pin To Net: NetName=GND Pin=R*2-2
+Added Pin To Net: NetName=+5 Pin=T*1-1
+Added Pin To Net: NetName=GND Pin=T*1-2
+Added Pin To Net: NetName=+12 Pin=T*2-1
+Added Pin To Net: NetName=GND Pin=T*2-2
+Added Pin To Net: NetName=Motor 1_2 Pin=T*3-1
+Added Pin To Net: NetName=Motor 1_1 Pin=T*3-2
+Added Pin To Net: NetName=Motor 2_1 Pin=T*4-1
+Added Pin To Net: NetName=Motor 2_2 Pin=T*4-2
+Added Pin To Net: NetName=NetR*1_1 Pin=U1-1
+Added Pin To Net: NetName=Motor 1_1 Pin=U1-2
+Added Pin To Net: NetName=Motor 1_2 Pin=U1-3
+Added Pin To Net: NetName=IN1_1 Pin=U1-5
+Added Pin To Net: NetName=COMMON_ENABLE Pin=U1-6
+Added Pin To Net: NetName=IN1_2 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+12 Pin=U1-9
+Added Pin To Net: NetName=IN2_1 Pin=U1-10
+Added Pin To Net: NetName=COMMON_ENABLE Pin=U1-11
+Added Pin To Net: NetName=IN2_2 Pin=U1-12
+Added Pin To Net: NetName=Motor 2_1 Pin=U1-13
+Added Pin To Net: NetName=Motor 2_2 Pin=U1-14
+Added Pin To Net: NetName=NetR*2_1 Pin=U1-15
+Added Member To Class: ClassName=Finale_Competition Member=Component *1 MPU_6050
+Added Member To Class: ClassName=Finale_Competition Member=Component H*1 FEMALE_HEADER_4
+Added Member To Class: ClassName=Finale_Competition Member=Component MD1 A000005
+Added Member To Class: ClassName=Finale_Competition Member=Component R*1 0.5 Ohm
+Added Member To Class: ClassName=Finale_Competition Member=Component R*2 0.5 Ohm
+Added Member To Class: ClassName=Finale_Competition Member=Component T*1 Terminal_block_2pins_3.5mm
+Added Member To Class: ClassName=Finale_Competition Member=Component T*2 Terminal_block_2pins_3.5mm
+Added Member To Class: ClassName=Finale_Competition Member=Component T*3 Terminal_block_2pins_3.5mm
+Added Member To Class: ClassName=Finale_Competition Member=Component T*4 Terminal_block_2pins_3.5mm
+Added Member To Class: ClassName=Finale_Competition Member=Component U1 L298N
+Added Room: Name=Finale_Competition
